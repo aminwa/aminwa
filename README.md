@@ -25,7 +25,7 @@
 
 I train and ship AI systems with a focus on how they behave in deployment. The work spans computer vision, on-device LLMs, and developer tools, with one principle running through all of it: the user's data should not leave the user's machine. [AW Labs](https://github.com/aminwa) is where that work ships.
 
-I also write on the boundary between AI systems, security, and privacy law — recent work covers GDPR compatibility with frontier LLM training, governance after the M&S ransomware incident, and deployment ethics for object detection in security screening. The thread is the same: how these systems hold up under real conditions, not just in notebooks.
+I also write on the boundary between AI systems, security, and privacy law. Recent work covers GDPR compatibility with frontier LLM training, governance after the M&S ransomware incident, and deployment ethics for object detection in security screening. The thread is the same: how these systems hold up under real conditions, not just in notebooks.
 
 ---
 
@@ -82,8 +82,8 @@ Evaluated against EDPB Opinion 28/2024, CNIL June 2025 guidance, and EU AI Act A
 
 **Selected Work**
 
-- **YOLOv8 for Prohibited Item Detection in Airport X-ray** — Trained and shipped to ONNX/Docker. mAP50 0.924 across five knife classes on the OPIXray benchmark, with explicit deployment ethics framing.
-- **Cyber Security Posture of M&S Following the April 2025 Ransomware Incident** — Critical evaluation of control failures with a costed remediation programme aligned to ISO 27001 and NIST SP 800-61r3.
+- **YOLOv8 for Prohibited Item Detection in Airport X-ray.** Trained and shipped to ONNX/Docker. mAP50 0.924 across five knife classes on the OPIXray benchmark, with explicit deployment ethics framing.
+- **Cyber Security Posture of M&S Following the April 2025 Ransomware Incident.** Critical evaluation of control failures with a costed remediation programme aligned to ISO 27001 and NIST SP 800-61r3.
 
 *Full versions available on request.*
 
