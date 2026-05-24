@@ -24,9 +24,9 @@
 
 ### What I do
 
-Most of the software people rely on daily collects their data, requires a subscription to stay functional, or phones home on every action. I build software that does none of that. At [AW Labs](https://github.com/aminwa), everything runs locally, ships without telemetry, and does not require cloud dependency to function. Cloud lock-in, subscription gates, and background data collection are design choices, not requirements.
+I train and ship AI systems with a focus on how they behave in deployment. The work spans computer vision, on-device LLMs, and developer tools, with one principle running through all of it: the user's data should not leave the user's machine. [AW Labs](https://github.com/aminwa) is where that work ships.
 
-I also research the boundary between AI systems and privacy law. My dissertation argues that GDPR compliance is not contingently but **structurally unavailable** to frontier-scale LLM development on web-scraped personal data - a mismatch that better engineering or sharper guidance cannot repair.
+I also write on the boundary between AI systems, security, and privacy law — recent work covers GDPR compatibility with frontier LLM training, governance after the M&S ransomware incident, and deployment ethics for object detection in security screening. The thread is the same: how these systems hold up under real conditions, not just in notebooks.
 
 ---
 
@@ -92,15 +92,17 @@ Evaluated against EDPB Opinion 28/2024, CNIL June 2025 guidance, and EU AI Act A
 
 *University of Derby - 6CM995 - Submitted May 2026*
 
-*Full dissertation PDF available on request.*
+**Selected Work**
+
+- **LLMs and GDPR: A Structural Incompatibility** — Dissertation, University of Derby, 2026. Argues GDPR compliance is structurally unavailable to frontier-scale LLM training on web-scraped personal data.
+- **YOLOv8 for Prohibited Item Detection in Airport X-ray** — Trained and shipped to ONNX/Docker. mAP50 0.924 across five knife classes on the OPIXray benchmark, with explicit deployment ethics framing.
+- **Cyber Security Posture of M&S Following the April 2025 Ransomware Incident** — Critical evaluation of control failures with a costed remediation programme aligned to ISO 27001 and NIST SP 800-61r3.
+
+*Full versions available on request.*
 
 ---
 
 <div align="center">
-
-![streak](https://streak-stats.demolab.com?user=aminwa&theme=dark&hide_border=true&background=0D1B2A&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=ffffff&dates=aaaaaa)
-
-<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=100&section=footer)
 
