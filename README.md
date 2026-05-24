@@ -46,17 +46,6 @@ Agentic AI terminal assistant. Hooks into zsh/bash, blocks dangerous commands be
 ![](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
 </td>
-<td width="50%">
-
-**screenshield** `AWL-002` - *coming soon*
-
-Local screen guardian. Uses OCR to detect sensitive data on screen before it leaks - passwords, API keys, PII - entirely offline. No cloud. No telemetry.
-
-`Python` `OCR` `Privacy` `macOS`
-
-![](https://img.shields.io/badge/status-in%20development-orange?style=flat-square)
-
-</td>
 </tr>
 </table>
 
@@ -93,7 +82,6 @@ Evaluated against EDPB Opinion 28/2024, CNIL June 2025 guidance, and EU AI Act A
 
 **Selected Work**
 
-- **LLMs and GDPR: A Structural Incompatibility** — Dissertation, University of Derby, 2026. Argues GDPR compliance is structurally unavailable to frontier-scale LLM training on web-scraped personal data.
 - **YOLOv8 for Prohibited Item Detection in Airport X-ray** — Trained and shipped to ONNX/Docker. mAP50 0.924 across five knife classes on the OPIXray benchmark, with explicit deployment ethics framing.
 - **Cyber Security Posture of M&S Following the April 2025 Ransomware Incident** — Critical evaluation of control failures with a costed remediation programme aligned to ISO 27001 and NIST SP 800-61r3.
 
