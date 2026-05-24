@@ -2,7 +2,7 @@
 
 <h1 align="center">Amin Wafi</h1>
 <p align="center"><b>AI &amp; Machine Learning Engineer</b></p>
-<p align="center"><i>Open to AI and privacy engineering roles in Paris, from June 2026.</i></p>
+<p align="center"><i>Open to AI and machine learning roles in Paris, from June 2026.</i></p>
 
 <div align="center">
 
