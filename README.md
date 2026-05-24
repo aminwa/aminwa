@@ -8,7 +8,7 @@
 
 <a href="https://git.io/typing-svg">
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C9A227&center=true&vCenter=true&width=700&lines=I+build+things+that+matter;LLMs+%2B+GDPR%3A+a+structural+problem%2C+not+a+compliance+gap;Computer+Vision+%7C+AI+%7C+Prompt+Engineering;Privacy-first.+Fast.+Useful.)
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C9A227&center=true&vCenter=true&width=700&lines=I+build+things+that+matter;LLMs+%2B+GDPR%3A+a+structural+problem%2C+not+a+compliance+gap;Computer+Vision+%7C+Machine+Learning+%7C+Privacy;Privacy-first.+Fast.+Useful.)
 
 </a>
 
