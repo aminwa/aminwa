@@ -7,7 +7,7 @@
 
 <a href="https://git.io/typing-svg">
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C9A227&center=true&vCenter=true&width=700&lines=YOLOv8+%C2%B7+Hugging+Face+%C2%B7+On-device+LLMs;GDPR+%2B+AI%3A+structurally+incompatible;Open+to+AI+and+ML+roles+in+Paris)
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C9A227&center=true&vCenter=true&width=700&lines=YOLOv8+%C2%B7+spaCy+%C2%B7+On-device+LLMs;shell-pilot+%C2%B7+screenshield+%C2%B7+redact;GDPR+%2B+AI%3A+structurally+incompatible;Open+to+AI+and+ML+roles+in+Paris)
 
 </a>
 
@@ -46,6 +46,33 @@ Agentic AI terminal assistant. Hooks into zsh/bash, blocks dangerous commands be
 ![](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
 </td>
+<td width="50%">
+
+**[screenshield](https://github.com/aminwa/screenshield)** `AWL-002`
+
+Local screen guardian. Captures frames at 2 FPS, runs OCR, and scans for 12 secret types — AWS keys, GitHub tokens, private keys, credit cards. Escalates to critical when a screen share is active and redacts in real time.
+
+`Python` `Tesseract` `spaCy` `Rich`
+
+[![CI](https://github.com/aminwa/screenshield/actions/workflows/ci.yml/badge.svg?style=flat-square)](https://github.com/aminwa/screenshield/actions/workflows/ci.yml)
+![](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[redact](https://github.com/aminwa/redact)** `AWL-003`
+
+PII redaction that shows its work. Runs a spaCy NER model and Claude in parallel, merges their outputs, and lets you compare what each engine caught and why. Pipe-friendly: `cat file.txt | redact`.
+
+`Python` `spaCy` `Claude API` `Typer`
+
+[![CI](https://github.com/aminwa/redact/actions/workflows/ci.yml/badge.svg?style=flat-square)](https://github.com/aminwa/redact/actions/workflows/ci.yml)
+![](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+
+</td>
+<td width="50%"></td>
 </tr>
 </table>
 
